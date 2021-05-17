@@ -1,4 +1,4 @@
-![Cover](https://github.com/NicolasBrondin/NicolasBrondin/blob/master/img/cover.jpg)
+![Cover](https://github.com/Cyprien-Gmd/Cyprien-Gmd/blob/main/img/alex-knight-vaA6EQiUSo4-unsplash.jpg)
 
 ### Hi there 👋
 
