@@ -1,4 +1,4 @@
-![Cover](https://github.com/Cyprien-Gmd/Cyprien-Gmd/blob/main/img/undraw_Updated_resume_re_q1or.svg)
+![Cover](https://github.com/Cyprien-Gmd/Cyprien-Gmd/blob/main/img/undraw_Playful_cat_re_bxiu.svg)
 
 <h1 align="center">🔰 BIENVENUE 🔰</h1>
 
