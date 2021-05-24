@@ -1,4 +1,4 @@
-![Cover](https://github.com/Cyprien-Gmd/Cyprien-Gmd/blob/main/img/alex-knight-vaA6EQiUSo4-unsplash.jpg)
+![Cover](https://github.com/Cyprien-Gmd/Cyprien-Gmd/blob/main/img/undraw_Updated_resume_re_q1or.svg)
 
 ### Bonjour 👋
 
