@@ -2,6 +2,8 @@
 
 ### Bonjour 👋
 
+[Linkedin](https://www.linkedin.com/in/cyprien-germond-b993271b7/) 
+
 
 🔗 Mes Skills : 
 
