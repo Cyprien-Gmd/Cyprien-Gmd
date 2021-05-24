@@ -5,7 +5,7 @@
 Bonjour, je m'appelle Cyprien, j'ai 22 ans et je souhaite devenir développeur web front-end. 
 Dans cette optique, j'ai commencé à coder seul, puis je me suis dirigé vers une formation. 
 Actuellement, le 24 Mai 2021, quand j'écris ce message, je suis toujours dans cette formation.
-Vous trouverez donc dans mes projets, des exercices que j'ai pu réaliser pour celle-ci ou divers intégrations pour m'entrainer.
+Vous trouverez donc dans mes projets, des exercices que j'ai pu réaliser pour celle-ci ou diverses intégrations pour m'entraîner.
 
 Vous pouvez suivre l'évolution de mes compétences au travers de différents projets. Le premier est la refonte d'un site de bowling, que vous trouverez dans 🔗 Mes derniers projets
 
