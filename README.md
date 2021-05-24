@@ -1,8 +1,7 @@
 ![Cover](https://github.com/Cyprien-Gmd/Cyprien-Gmd/blob/main/img/alex-knight-vaA6EQiUSo4-unsplash.jpg)
 
-### Hi there 👋
+### Bonjour 👋
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
