@@ -4,9 +4,11 @@
 
 [Linkedin](https://www.linkedin.com/in/cyprien-germond-b993271b7/) 
 
+〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰
 
 🔗 Mes Skills : 
-
+ 
+![image](https://github.com/Cyprien-Gmd/Cyprien-Gmd/blob/main/img/mes%20skills.png)
 
 〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰
 
