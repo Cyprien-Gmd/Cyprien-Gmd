@@ -30,7 +30,7 @@ Vous pouvez suivre l'évolution de mes compétences au travers de différents pr
 
 <!-- BLOG-POST-LIST:START -->
 - [🎳 Refonte d'un site complet 🎳](https://bowlingduparc.netlify.app/)(https://github.com/Cyprien-Gmd/REFONTE_BOWLING_DU_PARC)
-- [♥ Work in progress ♥]()
+- [♥ Portfolio / Work in progress ♥](https://germond-cyprien.netlify.app/)(https://github.com/Cyprien-Gmd/PORTFOLIO)
 - [♣ Work in progress ♣]()
 - [♦ Work in progress ♦]()
 <!-- BLOG-POST-LIST:END -->
